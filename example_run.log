@@ -1,0 +1,11 @@
+Linear Layer dtype: torch.float32
+/home/ryanyohnk/.conda/envs/intel-bug/lib/python3.9/site-packages/intel_extension_for_pytorch/frontend.py:277: UserWarning: pending the optimization for LSTM
+  warnings.warn("pending the optimization for LSTM")
+X dtype: torch.float32
+Y dtype: torch.float32
+Complete
+[CRITICAL ERROR] Kernel '_ZTSZZN2at15AtenIpexTypeXPU4impl21launch_vec_kernel_sgdILi2EfEEvRNS_6TensorES4_dbS4_ddbdllENKUlRN2cl4sycl7handlerEE_clES8_EUlNS6_4itemILi1ELb1EEEE_' removed due to usage of FP64 instructions unsupported by the targeted hardware. Running this kernel may result in unexpected results.
+[CRITICAL ERROR] Kernel '_ZTSZZN2at15AtenIpexTypeXPU4impl21launch_vec_kernel_sgdILi2EfEEvRNS_6TensorES4_dbS4_ddbdllENKUlRN2cl4sycl7handlerEE_clES8_EUlNS6_4itemILi1ELb1EEEE_' removed due to usage of FP64 instructions unsupported by the targeted hardware. Running this kernel may result in unexpected results.
+[CRITICAL ERROR] Kernel '_ZTSZZN2at15AtenIpexTypeXPU4impl21launch_vec_kernel_sgdILi2EfEEvRNS_6TensorES4_dbS4_ddbdllENKUlRN2cl4sycl7handlerEE_clES8_EUlNS6_4itemILi1ELb1EEEE_' removed due to usage of FP64 instructions unsupported by the targeted hardware. Running this kernel may result in unexpected results.
+[CRITICAL ERROR] Kernel '_ZTSZZN2at15AtenIpexTypeXPU4impl21launch_vec_kernel_sgdILi2EfEEvRNS_6TensorES4_dbS4_ddbdllENKUlRN2cl4sycl7handlerEE_clES8_EUlNS6_4itemILi1ELb1EEEE_' removed due to usage of FP64 instructions unsupported by the targeted hardware. Running this kernel may result in unexpected results.
+[CRITICAL ERROR] Kernel '_ZTSZZN2at15AtenIpexTypeXPU4impl21launch_vec_kernel_sgdILi2EfEEvRNS_6TensorES4_dbS4_ddbdllENKUlRN2cl4sycl7handlerEE_clES8_EUlNS6_4itemILi1ELb1EEEE_' removed due to usage of FP64 instructions unsupported by the targeted hardware. Running this kernel may result in unexpected results.
